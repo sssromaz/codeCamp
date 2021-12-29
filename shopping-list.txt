@@ -1,0 +1,1 @@
+const myList = [["qwe", 3], ["asd", 5], ["zxc", 7], ["rty", 1],["fgh", 6]];
